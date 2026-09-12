@@ -4,10 +4,10 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
-- Candidate problem nhóm chọn:
+- Họ và tên: Nguyễn Quang Tuấn
+- Mã học viên: 2A202602470
+- Nhóm: [điền sau khi nhóm đã họp — VD: Nhóm 3]
+- Candidate problem nhóm chọn: [điền sau khi nhóm chốt ở Phase 3 — có thể là "phan-tich-bctc" hoặc bài khác nhóm hội tụ về]
 
 ---
 
@@ -17,21 +17,23 @@ Ghi việc cụ thể + kết quả cụ thể. Không ghi chung chung kiểu "t
 
 | Hoạt động | Tôi đã làm gì? (việc cụ thể) | Kết quả / ảnh hưởng tới nhóm |
 |---|---|---|
-| Scan cá nhân | | |
-| Pitch Problem Card | | |
-| Challenge bài của bạn khác | | |
-| Gom trùng / cluster | | |
-| Chọn candidate problem | | |
-| Validation / research | | |
-| Workflow nhóm | | |
-| Problem Statement | | |
-| Rule / Workflow / Agent | | |
-| Decision | | |
+| Scan cá nhân | Scan 5 problems theo vai trò researcher (đọc/kiểm chứng nguồn, phân tích BCTC, survey kiến thức mới), chọn top 3 Problem Cards | — |
+| Pitch Problem Card | [điền: bạn pitch card nào, nhóm phản ứng ra sao] | |
+| Challenge bài của bạn khác | [điền: bạn hỏi/challenge ai, câu hỏi gì, kết quả] | |
+| Gom trùng / cluster | [điền: bạn có tham gia gom cluster không, đóng góp gì] | |
+| Chọn candidate problem | [điền: bạn ủng hộ/phản đối candidate nào, vì sao] | |
+| Validation / research | [điền: với vai trò researcher — bạn đã research nguồn nào, tìm case study gì] | |
+| Workflow nhóm | [điền] | |
+| Problem Statement | [điền] | |
+| Rule / Workflow / Agent | [điền] | |
+| Decision | [điền] | |
+
+> Đây là bảng bắt buộc phải điền bằng trải nghiệm thật sau khi nhóm đã họp — không nên để AI đoán thay, vì rubric chấm 12đ "tham gia pitch + challenge" dựa trên tính cụ thể và trung thực của bảng này.
 
 **Dấu tay rõ nhất của tôi trong artifact cuối (1-2 câu):**
 
 ```text
-
+[điền sau khi có artifact nhóm — ví dụ: phần research/validation nguồn số liệu, hoặc phần so sánh Rule/Workflow/Agent nếu bạn là người đề xuất mức đó]
 ```
 
 ---
@@ -40,13 +42,13 @@ Ghi việc cụ thể + kết quả cụ thể. Không ghi chung chung kiểu "t
 
 | Phase | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai / hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| Scan | | | | |
-| Problem Card | | | | |
-| Workflow | | | | |
-| Research | | | | |
-| Problem Statement | | | | |
-| Rule / Workflow / Agent | | | | |
-| Decision | | | | |
+| Scan | Hỏi AI gợi ý thêm problem theo 4 lăng kính sau khi tự scan trước | Gợi ý được góc "truy vết nguồn số liệu" và "format báo cáo lặp lại" mà ban đầu chưa nghĩ tới | AI gợi ý "trợ lý AI tổng hợp tin tức tài chính real-time" — quá rộng, không phải pain thật | Bỏ ý đó, chỉ giữ lại các ý có số đo và trải nghiệm thật của mình |
+| Problem Card | [điền: có dùng AI phản biện card không, hỏi gì] | | | |
+| Workflow | [điền] | | | |
+| Research | [điền: vai trò researcher — AI có giúp tìm nguồn không, có bịa link không] | | | |
+| Problem Statement | [điền] | | | |
+| Rule / Workflow / Agent | [điền] | | | |
+| Decision | [điền] | | | |
 
 > Nếu phase nào không dùng AI, ghi `Không dùng` và vì sao tự làm.
 
@@ -65,9 +67,15 @@ Chọn 3-4 câu trong 6 câu dưới để viết thành đoạn 8-12 câu (khô
 **Reflection:**
 
 ```text
+[VIẾT BẰNG TRẢI NGHIỆM THẬT CỦA BẠN SAU BUỔI LAB — không dùng AI viết thay đoạn này, chỉ dùng câu hỏi gợi ý dưới đây để tự soi.
 
-
-
+Gợi ý triển khai (chọn 3-4 câu trong 6 câu ở trên, viết liền mạch 8-12 câu):
+- Với vai trò researcher, bạn có thể kể: khi nghe top 3 problems của các bạn khác, bạn nhận ra pain nào tưởng nhỏ nhưng thật sự lặp lại nhiều; ý tưởng phân tích BCTC của bạn được nhóm phản hồi thế nào, có bị challenge ở chỗ "AI đọc sai số liệu PDF thì ai chịu trách nhiệm" không.
+- Nói rõ lúc nào nhóm suýt solution-first (thích chọn Agent vì nghe "ngầu" hơn là vì bài toán thật sự cần).
+- Kể một lần bạn đổi ý sau khi bị challenge, ví dụ đổi từ "cần Agent" sang "Workflow cố định là đủ" vì các bước phân tích tài chính đi theo trình tự cố định.
+- Nói rõ phần nào trong research/validation là dấu tay của riêng bạn.
+- Điều khó nhất khi viết Problem Statement — có thể là boundary (AI được trích số liệu nhưng không được tự kết luận đầu tư) hoặc metric (đo % sai lệch số liệu thế nào cho công bằng).
+- Nếu làm lại, bạn sẽ challenge nhóm mạnh hơn ở điểm nào — ví dụ độ tin cậy trích xuất PDF trước khi nhóm commit vào mức Workflow.]
 ```
 
 ---
